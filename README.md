@@ -1,7 +1,7 @@
 # My-Weather
 A weather app created using the OpenWeatherMap API.
 
-Viewable on here https://mangadods.netlify.app/
+Viewable on here https://my-weather-project.netlify.app/
 
 # Technologies Used
 
@@ -20,5 +20,5 @@ Viewable on here https://mangadods.netlify.app/
 
 # Screenshot
 
-![alt text](https://github.com/nadbad/MangaDoDs-Website/blob/master/Project%204.PNG)
+![alt text](https://github.com/nadbad/My-Weather/blob/master/Project%202.jpg)
 

@@ -13,7 +13,7 @@ Viewable on here https://my-weather-project.netlify.app/
 
 # Features
 
--Option to view today's weather or the weather of the upcoming 5 days
+-Option to view today's weather or the weather of the upcoming 7 days
 
 -Fully responsive on all devices
 
